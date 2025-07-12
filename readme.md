@@ -1,1 +1,1 @@
-neovim config without any dependencies from https://youtu.be/skW3clVG5Fo
+neovim config without any dependencies. modified from https://youtu.be/skW3clVG5Fo
